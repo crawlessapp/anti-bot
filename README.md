@@ -60,7 +60,7 @@ Here we have 2 different fingerprints. CreepJS does a good job on checking all p
 
 **Canvas test**
 
-[>>> Watch Video <<<](https://youtu.be/PWgiTaTWyBA)
+[**>>> Watch Video <<<**](https://youtu.be/PWgiTaTWyBA)
 
 [<img src="https://user-images.githubusercontent.com/88615762/229146918-749a6096-0cb4-4810-b038-767c18b3cb4f.png" alt="browserleaks 1" title="browserleaks fingerprint 1" width="1000" height="640" />](https://youtu.be/PWgiTaTWyBA)
 
@@ -69,7 +69,7 @@ Here we have 2 different fingerprints. CreepJS does a good job on checking all p
 
 **Fonts test**
 
-[>>> Watch Video <<<](https://youtu.be/-aiwvfajupA)
+[**>>> Watch Video <<<**](https://youtu.be/-aiwvfajupA)
 
 [<img width="1000" height="640" alt="Fonts Fingerprint" src="https://user-images.githubusercontent.com/88615762/229154080-92247510-0658-4a0e-8a78-fde6047f4b08.png">](https://youtu.be/-aiwvfajupA)
 
@@ -88,7 +88,7 @@ Test was made on [https://nowsecure.nl](https://nowsecure.nl)
 
 On WizzAir the Akamai anti-bot is used with high level of protection.
 
-[>>> Watch Video <<<](https://youtu.be/Nc5VclUpKIM)
+[**>>> Watch Video <<<**](https://youtu.be/Nc5VclUpKIM)
 
 [<img width="1000" height="640" alt="WizzAir without fingerprint" src="https://user-images.githubusercontent.com/88615762/229157675-6dd5fb47-b3c8-4076-8472-402f547e666d.png">](https://youtu.be/Nc5VclUpKIM)
 
@@ -99,6 +99,6 @@ On WizzAir the Akamai anti-bot is used with high level of protection.
 
 Demo on how easy it is to generate `sensor_data` for Akamai. You can use it as sensor_data generator on any website which have akamai protection
 
-[>>> Watch Video <<<](https://youtu.be/kKnlb8fee8U)
+[**>>> Watch Video <<<**](https://youtu.be/kKnlb8fee8U)
 
 [<img width="1000" height="640" alt="Akamai sensor_data generator" src="https://user-images.githubusercontent.com/88615762/229172713-3d8a2579-0904-47a7-9908-2565306d982f.png">](https://youtu.be/kKnlb8fee8U)
