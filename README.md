@@ -40,6 +40,10 @@ It can bypass: `Cloudflare`, `DistillNetwork`, `Akamai`, `Datadome`, `PerimeterX
 
 <img width="1000" height="640" alt="Your are not Chrome Headless" src="https://user-images.githubusercontent.com/88615762/229228948-0a2d02a7-930d-47fe-8e97-a9f0a566da47.png">
 
+### [reCaptcha v3](https://recaptcha-demo.appspot.com/recaptcha-v3-request-scores.php)
+
+<img alt="bypass reCaptcha v3" src="https://user-images.githubusercontent.com/88615762/229236603-bdfded9e-3a29-4928-8497-593a86c72b5d.png" width="1000" height="640">
+
 
 ### [fingerprint.com](https://fingerprint.com/demo/)
 
