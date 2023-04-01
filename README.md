@@ -42,7 +42,19 @@ It can bypass: `Cloudflare`, `DistillNetwork`, `Akamai`, `Datadome`, `PerimeterX
 
 ### [reCaptcha v3](https://recaptcha-demo.appspot.com/recaptcha-v3-request-scores.php)
 
-<img alt="bypass reCaptcha v3" src="https://user-images.githubusercontent.com/88615762/229236603-bdfded9e-3a29-4928-8497-593a86c72b5d.png" width="760" height="500">
+```json
+{
+  "success": true,
+  "hostname": "recaptcha-demo.appspot.com",
+  "challenge_ts": "2023-04-01T05:59:11Z",
+  "apk_package_name": null,
+  "score": 0.9,
+  "action": "examples/v3scores",
+  "error-codes": []
+}
+```
+
+<img alt="bypass reCaptcha v3" src="https://user-images.githubusercontent.com/88615762/229268518-8c0a7586-7d43-419b-83b6-e8de83628b53.png" width="760" height="500">
 
 
 ### [fingerprint.com](https://fingerprint.com/demo/)
