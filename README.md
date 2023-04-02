@@ -1,6 +1,6 @@
 
 
-# Crawless Antt-Bot Browser Fingerprint Solution
+# Crawless Anti-Bot Browser Fingerprint Solution
 
 ![anti-bot fingerprints generator](https://user-images.githubusercontent.com/88615762/229354081-9ce772dc-4276-4414-a0fd-1916b4f9ad30.gif)
 
