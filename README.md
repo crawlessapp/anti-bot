@@ -10,7 +10,7 @@ We are proud to pressent how easy it is to Automate any Web flows and grow your 
 
 At Crawless Labs, we take pride in crafting our exceptional Browser Fingerprint solution, capable of generating unlimited amount of unique browser fingerprints by altering every conceivable browser property.
 
-Our cutting-edge technology empowers you to access valuable content from websites that employ robust protection services, such as
+Our cutting-edge technology empowers you to access valuable content from websites that employ robust protection services, such as:
 
 - `Shape Security`
 - `DataDome`
