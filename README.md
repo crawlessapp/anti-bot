@@ -4,36 +4,17 @@
 
 ![anti-bot fingerprints generator](https://user-images.githubusercontent.com/88615762/229354081-9ce772dc-4276-4414-a0fd-1916b4f9ad30.gif)
 
-## Intro
+## About 
 
-At Crawless Labs we made our own `Browser Fingerprint` solution which can generate unlimited amount of unique fingerprints by changing all possible browser properties.
+We are proud to pressent how easy it is to `Automate` any Web flows and grow your business by accessing most protected valuable content.
 
-There is a list of all supported features:
-  - `canvas`
-  - `audio`
-  - `webgl`
-  - `webrtc`
-  - `fonts`
-  - `navigator`
-  - `window`
-  - `screen`
-  - `eval`
-  - `webdriver`
-  - `performance`
-  - `outerdimensions`
-  - `speech`
-  - `permissions`
-  - `user-agent data`
-  - `iframe`
-  - `date`
-  - `timezone`
-  - `rtt`
+At Crawless Labs, we take pride in crafting our exceptional Browser Fingerprint solution, capable of generating unlimited amount of unique browser fingerprints by altering every conceivable browser property.
 
-We can emulate Chrome and Brave browsers with confidence which is almost impossible to detect.
+Our cutting-edge technology empowers you to access valuable content from websites that employ robust protection services, such as `Shape Security`, `DataDome`, `Distil Imperva Incapsula`, `PerimeterX`, `Akamai`, `FingerprintJS`, `FingerprintJS Pro`, `Kasada`, `WhiteOps`, `ShieldSquare`, `ThreatMetrix`, `F5`, `Cloudflare`, `Arkose Labs`, `Human Security`, `Sift`, `Ocule`, `Cheq`, `TrafficGuard`, `Reblaze`, `Forter Protection`, `Meetrics Check`, `reCAPTCHA`, `generic fingerprinting & bot detection`
 
-It is well tested and covers all possible anti-bot websites.
-It can bypass: `Cloudflare`, `DistillNetwork`, `Akamai`, `Datadome`, `PerimeterX`, `reCaptcha v3`, etc.
+There is a list of all supported features:  - `canvas`, `audio`, `webgl`, `webrtc`, `fonts`, `navigator`, `window`, `screen`, `eval`, `webdriver`, `performance`, `outerdimensions`, `speech`, `permissions`, `user-agent data`, `iframe`, `timezone`, `rtt`
 
+Confidently emulate `Chrome` and `Brave` browsers with our solution, designed to be undetectable.
 
 
 ## Examples and Tests
