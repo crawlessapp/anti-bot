@@ -102,6 +102,22 @@ Test was made on [https://nowsecure.nl](https://nowsecure.nl)
 
 [<img alt="Cloudflare bypass" src="https://user-images.githubusercontent.com/88615762/229162001-d013e502-630f-463c-9d85-0864280bc6b1.png">](https://youtu.be/HqsHILruzG4)
 
+### [PerimeterX bypass](https://www.perimeterx.com)
+
+Bypass PerimeterX captcha on [zillow.com](https://www.zillow.com)
+
+<img alt="perimeterx bypass before" src="https://user-images.githubusercontent.com/88615762/230376976-ed280d4c-00fd-41b4-a403-8ba868dc99aa.png">
+
+<img alt="perimeterx bypass after" src="https://user-images.githubusercontent.com/88615762/230377004-102975c1-e8cb-4b3d-bbab-cef48aecb6db.png">
+
+### [Akamai](https://www.akamai.com)
+
+Demo on how easy it is to generate `sensor_data` for Akamai. You can use it as sensor_data generator on any website which have akamai protection
+
+[**>>> Watch Video <<<**](https://youtu.be/kKnlb8fee8U)
+
+[<img alt="Akamai sensor_data generator" src="https://user-images.githubusercontent.com/88615762/229172713-3d8a2579-0904-47a7-9908-2565306d982f.png">](https://youtu.be/kKnlb8fee8U)
+
 ### [Wizz Air](https://wizzair.com)
 
 On WizzAir the Akamai anti-bot is used with high level of protection.
@@ -111,12 +127,3 @@ On WizzAir the Akamai anti-bot is used with high level of protection.
 [<img alt="WizzAir without fingerprint" src="https://user-images.githubusercontent.com/88615762/229157675-6dd5fb47-b3c8-4076-8472-402f547e666d.png">](https://youtu.be/Nc5VclUpKIM)
 
 [<img alt="WizzAir with fingerprint" src="https://user-images.githubusercontent.com/88615762/229157664-a6e740c8-c12d-4eeb-9939-653ef729ca0b.png">](https://youtu.be/Nc5VclUpKIM)
-
-
-### [Akamai](https://www.akamai.com)
-
-Demo on how easy it is to generate `sensor_data` for Akamai. You can use it as sensor_data generator on any website which have akamai protection
-
-[**>>> Watch Video <<<**](https://youtu.be/kKnlb8fee8U)
-
-[<img alt="Akamai sensor_data generator" src="https://user-images.githubusercontent.com/88615762/229172713-3d8a2579-0904-47a7-9908-2565306d982f.png">](https://youtu.be/kKnlb8fee8U)
