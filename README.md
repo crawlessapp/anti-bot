@@ -6,15 +6,59 @@
 
 ## About 
 
-We are proud to pressent how easy it is to `Automate` any Web flows and grow your business by accessing most protected valuable content.
+We are proud to pressent how easy it is to Automate any Web flows and grow your business by accessing most protected valuable content.
 
 At Crawless Labs, we take pride in crafting our exceptional Browser Fingerprint solution, capable of generating unlimited amount of unique browser fingerprints by altering every conceivable browser property.
 
-Our cutting-edge technology empowers you to access valuable content from websites that employ robust protection services, such as `Shape Security`, `DataDome`, `Distil Imperva Incapsula`, `PerimeterX`, `Akamai`, `FingerprintJS`, `FingerprintJS Pro`, `Kasada`, `WhiteOps`, `ShieldSquare`, `ThreatMetrix`, `F5`, `Cloudflare`, `Arkose Labs`, `Human Security`, `Sift`, `Ocule`, `Cheq`, `TrafficGuard`, `Reblaze`, `Forter Protection`, `Meetrics Check`, `reCAPTCHA`, `generic fingerprinting & bot detection`
+Our cutting-edge technology empowers you to access valuable content from websites that employ robust protection services, such as
 
-There is a list of all supported features:  - `canvas`, `audio`, `webgl`, `webrtc`, `fonts`, `navigator`, `window`, `screen`, `eval`, `webdriver`, `performance`, `outerdimensions`, `speech`, `permissions`, `user-agent data`, `iframe`, `timezone`, `rtt`
+- `Shape Security`
+- `DataDome`
+- `Distil Imperva Incapsula`
+- `PerimeterX`
+- `Akamai`
+- `FingerprintJS`
+- `FingerprintJS Pro`
+- `Kasada`
+- `WhiteOps`
+- `ShieldSquare`
+- `ThreatMetrix`
+- `F5`
+- `Cloudflare`
+- `Arkose Labs`
+- `Human Security`
+- `Sift`
+- `Ocule`
+- `Cheq`
+- `TrafficGuard`
+- `Reblaze`
+- `Forter Protection`
+- `Meetrics Check`
+- `reCAPTCHA`
+- `generic fingerprinting & bot detection`
 
-Confidently emulate `Chrome` and `Brave` browsers with our solution, designed to be undetectable.
+There is just a list of supported features it can change:
+
+- `canvas`
+- `audio`
+- `webgl`
+- `webrtc`
+- `fonts`
+- `navigator`
+- `window`
+- `screen`
+- `eval`
+- `webdriver`
+- `performance`
+- `outerdimensions`
+- `speech`
+- `permissions`
+- `useragent-data`
+- `iframe`
+- `timezone`
+- `rtt`
+
+Confidently emulate Chrome and Brave browsers with our solution, designed to be undetectable.
 
 
 ## Examples and Tests
