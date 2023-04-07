@@ -6,6 +6,8 @@
 
 ## About 
 
+[![Crawless on Discord](https://discordapp.com/api/guilds/1093232860401516584/widget.png?style=banner2)](https://discord.gg/wPyeucTR)
+
 We are proud to pressent how easy it is to Automate any Web flows and grow your business by accessing most protected valuable content.
 
 At Crawless Labs, we take pride in crafting our exceptional Browser Fingerprint solution, capable of generating unlimited amount of unique browser fingerprints by altering every conceivable browser property.
