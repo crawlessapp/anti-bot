@@ -60,7 +60,7 @@ There is just a list of supported features it can change:
 - `timezone`
 - `rtt`
 
-Confidently emulate Chrome and Brave browsers with our solution, designed to be undetectable.
+Confidently emulate `Chrome` and `Brave` browsers with our solution, designed to be undetectable.
 
 
 ## Examples and Tests
