@@ -6,7 +6,7 @@
 
 ## About 
 
-[![Crawless on Discord](https://discordapp.com/api/guilds/1093232860401516584/widget.png?style=banner2)](https://discord.gg/wPyeucTR)
+[![Crawless on Discord](https://discordapp.com/api/guilds/1093232860401516584/widget.png?style=banner2)](https://discord.gg/8GjY95VtAB) 
 
 We are proud to pressent how easy it is to Automate any Web flows and grow your business by accessing most protected valuable content.
 
